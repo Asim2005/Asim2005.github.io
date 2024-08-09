@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "text-to-speech-converter": "^1.2.0"
+  }
+}
